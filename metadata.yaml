@@ -8,12 +8,17 @@ contributor:
   - agent_name: Albin, Eleazar
     gutenberg_agent_id: '52851'
     url: http://www.gutenberg.org/2009/agents/52851
+covers:
+- cover_type: archival
+  image_path: 64319-h/images/cover.jpg
 creator:
   author:
     agent_name: North, Roger
     gutenberg_agent_id: '52850'
     url: http://www.gutenberg.org/2009/agents/52850
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64319#The-History-of-Esculent-Fish
 gutenberg_issued: '2021-01-17'
 gutenberg_type: Text
 identifiers:
